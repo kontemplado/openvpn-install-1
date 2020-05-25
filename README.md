@@ -11,6 +11,6 @@ Run the script and follow the assistant:
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 
 ### I want to run my own VPN but don't have a server for that
-You can get a VPS from just $1/month at [VirMach](https://go.kontemplado.com/virmach).
+[Compare Hosters table for Allowed VPN](https://go.kontemplado.com/lryva).
 
 
