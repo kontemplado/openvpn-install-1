@@ -10,7 +10,7 @@ Run the script and follow the assistant:
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 
-[Detailed guide with pictures](https://go.kontemplado.com/0ekcd).
+[Detailed guide with screenshots](https://go.kontemplado.com/0ekcd).
 
 ### I want to run my own VPN but don't have a server for that
 [Compare Hosters table for Allowed VPN](https://go.kontemplado.com/lryva).
